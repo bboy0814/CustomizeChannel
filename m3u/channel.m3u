@@ -151,10 +151,6 @@ https://epg.pw/stream/d0bc3876c3c39e995f65f2a459449587e1bb4cd79a211a228e8837b5bd
 https://epg.pw/stream/1676e38ee8599860f0bfb524eed6b2d6f5f18a1ab67254007e2ac561f0b87f91.m3u8
 #EXTINF:-1 tvg-name="龍祥電影" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/19/large/20230719075349183643_37.png" group-title="電影",[SD]龙祥电影
 https://epg.pw/stream/8e754da34e97f3b0b58a4596e6d514fb066c416244f457b2afaba0f0f216ab4b.m3u8
-#EXTINF:-1 tvg-name="龍祥電影" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/19/large/20230719075349183643_37.png" group-title="電影",[SD]龙祥电影
-http://103.45.68.47/gy/gy992/xsj.php?id=lstime
-#EXTINF:-1 tvg-name="龍祥洋片" tvg-id="" tvg-country="台灣" tvg-language="國語" group-title="電影",[SD]龍祥洋片
-http://103.45.68.47/gy/gy992/xsj.php?id=ltv-yangpian
 #EXTINF:-1 tvg-name="龍華戲劇" tvg-id="11256" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/24/large/20230724170326264507_47.png" group-title="電影",[HD]龍華戲劇[geo-blocked]
 https://epg.pw/stream/2ab3a3329e8b5fb2694e8ef236ac66daa6be0229e1783c03cce080b8fdf07754.m3u8
 #EXTINF:-1 tvg-name="龍華戲劇" tvg-id="11256" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/24/large/20230724170326264507_47.png" group-title="電影",[HD]龙华戏剧@@1[geo-blocked]
@@ -165,18 +161,8 @@ https://epg.pw/stream/d93bc117e804580ba0ed70233ab5690fe7fae4de4475acd3c1fed55304
 https://epg.pw/stream/bba945f7e6547687c868079ac69f766f617e854bf411f7bdd6e3299ed7638b97.m3u8
 #EXTINF:-1 tvg-name="星衛電影台" tvg-id="" tvg-country="台灣" tvg-language="國語" group-title="電影",星衛電影台
 http://50.7.238.114:8278/xingwei_movie/playlist.m3u8?tid=MBDB4578128345781283&ct=19225&tsum=f2041ec954c95b4a5fe29d7ccbfe5b60
-#EXTINF:-1 tvg-name="星衛電影台" tvg-id="" tvg-country="台灣" tvg-language="國語" group-title="電影",星衛電影台
-http://103.45.68.47/gy/gy992/xsj.php?id=star-movies
 #EXTINF:-1 tvg-name="美亞電影台" tvg-id="" tvg-country="台灣" tvg-language="國語" group-title="電影",美亞電影台
 http://66.181.39.224/ml.php?id=meiyamovie_twn
-#EXTINF:-1 tvg-name="衛視電影台" tvg-id="" tvg-country="台灣" tvg-language="國語" group-title="電影",衛視電影台
-http://103.45.68.47/gy/gy992/xsj.php?id=star-chinese-movies
-#EXTINF:-1 tvg-name="衛視電影台" tvg-id="" tvg-country="台灣" tvg-language="國語" group-title="電影",衛視電影台
-http://103.45.68.47/gy/gy992/xsj.php?id=star-chinese-movies
-#EXTINF:-1 tvg-name="好萊塢電影台" tvg-id="" tvg-country="台灣" tvg-language="國語" group-title="電影",好萊塢電影台
-http://103.45.68.47/gy/gy992/xsj.php?id=hollywood-tw
-#EXTINF:-1 tvg-name="緯來電影台" tvg-id="" tvg-country="台灣" tvg-language="國語" group-title="電影",緯來電影台
-http://103.45.68.47/gy/gy992/xsj.php?id=videoland-movie
 #EXTINF:-1 tvg-name="東森電影" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722105858673463_13.png" group-title="電影",[SD]东森电影
 https://epg.pw/stream/ca75e3e4c699368ae25cde5d784cf467f81e3f426c98c80fd8ca67aea8382b3f.m3u8
 #EXTINF:-1 tvg-name="東森電影" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722105858673463_13.png" group-title="電影",[HD]东森电影@@2
@@ -197,16 +183,6 @@ http://107.151.203.111:2209/135/hk.php?id=dsypt
 http://162.19.247.76:22222/live/dsypt/index.m3u8
 #EXTINF:-1 tvg-name="靖天卡通" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720211529385804_31.png" group-title="卡通",[VGA]靖天卡通[geo-blocked]
 https://epg.pw/stream/13bf74ffe6f5167cbe1bc14dc8fe5c75a5285ac4c955623cb34dbd9de4b8980f.m3u8
-#EXTINF:-1 tvg-name="靖天卡通台" tvg-id="" tvg-country="台灣" tvg-language="國語" group-title="卡通",靖天卡通台
-http://103.45.68.47/gy/gy992/xsj.php?id=jtkt
-#EXTINF:-1 tvg-name="東森幼幼台" tvg-id="" tvg-country="台灣" tvg-language="國語" group-title="卡通",東森幼幼台
-http://103.45.68.47/gy/gy992/xsj.php?id=ebc-yoyo
-#EXTINF:-1 tvg-name="尼克兒童" tvg-id="" tvg-country="台灣" tvg-language="國語" group-title="卡通",尼克兒童
-http://103.45.68.47/gy/gy992/xsj.php?id=nickelodeon
-#EXTINF:-1 tvg-name="MOMO親子" tvg-id="" tvg-country="台灣" tvg-language="國語" group-title="卡通",MOMO親子
-http://103.45.68.47/gy/gy992/xsj.php?id=momo-kids
-#EXTINF:-1 tvg-name="CN卡通" tvg-id="" tvg-country="台灣" tvg-language="國語" group-title="卡通",CN卡通
-http://103.45.68.47/gy/gy992/xsj.php?id=cn-cartoon
 #EXTINF:-1 tvg-name="尼克兒童臺" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/06/02/large/20230602225056726647_35.jpg" group-title="卡通",[BD]尼克儿童频道
 https://epg.pw/stream/3f9e0cbf40dd4828d593f974c80730357e4fdc12f11b239ef6f6542e21e781a4.m3u8
 #EXTINF:-1 group-title="卡通",東森幼幼
