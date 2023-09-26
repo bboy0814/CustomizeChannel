@@ -232,14 +232,4 @@ http://epg.112114.xyz/douyu/9445279
 https://epg.112114.xyz/huya/11601963
 #EXTINF:-1 group-title="直播",動漫輪播-二次猿動畫
 http://tc-tct.douyucdn2.cn/dyliveflv1a/206858rtesHKjl.flv?wsAuth=9eaefce6cc13570baaeff857204a4d5c&token=cpn-androidmpro-0-206858-355488b41ed19088c77925a51949944b3aeedf4a96fd30f8&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
-#EXTINF:-1 group-title="直播",蠟筆小新bilibili
-http://tc-tct.douyucdn2.cn/dyliveflv1a/206858rtesHKjl.flv?wsAuth=9eaefce6cc13570baaeff857204a4d5c&token=cpn-androidmpro-0-206858-355488b41ed19088c77925a51949944b3aeedf4a96fd30f8&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
-#EXTINF:-1 group-title="直播",蠟筆小新bilibili
-https://d1--ov-gotcha07.bilivideo.com/live-bvc/947639/live_476429557_83564709.flv?expires=1695715611&len=0&oi=3699522979&pt=h5&qn=10000&trid=1000c0c729c1aed8427fa6e028ef6ec77464&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=ov-gotcha07&sign=28d8e8bf49910555c24b855bd086068b&sk=00adca103831458a32046b582edfb384&p2p_type=0&sl=1&free_type=0&mid=0&pp=rtmp&source=onetier&trace=0&site=911498d1e9eaef9a9a2bc629da1cdfaf&order=1
-#EXTINF:-1 group-title="直播",蠟筆小新bilibili
-https://d1--ov-gotcha07.bilivideo.com/live-bvc/283502/live_101585242_4096297.flv?expires=1695715646&len=0&oi=3699522979&pt=h5&qn=10000&trid=1000e909d5d68ef04fb380987c7a4b39427c&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=ov-gotcha07&sign=e0740a0b1e09ab556a38076f0448f407&sk=01bc4a7059b78706360840d9c08da9e3&p2p_type=0&sl=1&free_type=0&mid=0&pp=rtmp&source=onetier&trace=0&site=0745749865d4b2ba81e9b6a1cf83eb8f&order=1
-#EXTINF:-1 group-title="直播",蠟筆小新bilibili
-https://d1--ov-gotcha07.bilivideo.com/live-bvc/872586/live_362103260_4626696.flv?expires=1695715746&len=0&oi=3699522979&pt=h5&qn=10000&trid=10000cd54dc7bcb84d6ab7f236228158e990&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=ov-gotcha07&sign=8fc1c3b9a39b10282ab95b25bbc401b6&sk=dbe618530d5f4846e1c082bab8be6b2d&p2p_type=0&sl=1&free_type=0&mid=0&pp=rtmp&source=onetier&trace=0&site=9e22b6c2718f15218ed2790e2928f304&order=1
-#EXTINF:-1 group-title="直播",海綿寶寶高清
-https://d1--ov-gotcha07.bilivideo.com/live-bvc/225730/live_2082657599_16864526.flv?expires=1695715821&len=0&oi=3699522979&pt=h5&qn=10000&trid=10000a9e0c6632e7483e931c38c3d7c0bf7f&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=ov-gotcha07&sign=c0617fddd4a8555532e4532afa4ee04c&sk=6ece359397de0f9d949102f048dc9db0&p2p_type=0&sl=1&free_type=0&mid=0&pp=rtmp&source=onetier&trace=0&site=ec4e50a25cc3e90fd5ffb01d287de802&order=1
 
