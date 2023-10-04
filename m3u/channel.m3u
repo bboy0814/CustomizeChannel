@@ -187,6 +187,8 @@ http://162.19.247.76:22222/live/dsypt/index.m3u8
 #https://epg.pw/stream/807c8130abec04971778cf511e86db3ae4bfd99dc61dfdbdc6714ac1fe8a60f6.ctv
 #EXTINF:-1 tvg-name="龍華卡通" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2017/08/11/large/20170811213813794182_39.jpg" group-title="卡通",[HD]龙华卡通[geo-blocked]
 #https://epg.pw/stream/d32172780b755a7e27bc83205c9b35044cf943b127a4a470e039966a6730d439.m3u8
+#EXTINF:-1 tvg-name="Animax" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2017/08/11/large/20170811213813794182_39.jpg" group-title="卡通",Animax
+https://epg.pw/stream/0c0ef3343e121c93cec05be29cf6275816427c2a62899fb0a44fb65905c8d6d9.ctv
 #EXTINF:-1 group-title="運動",愛爾達體育1台
 rtmp://59.124.75.138/sat/md051
 #EXTINF:-1 group-title="運動",愛爾達體育1台
