@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-name="民視" tvg-id="10843" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/06/14/large/20230614212503849654_98.png" group-title="綜合",[VGA]民视@@1[geo-blocked]
 https://epg.pw/stream/7401229ebba48dab78da3eb2e6912ed1aa1f295c056697946a2949901268ad3a.m3u8
 #EXTINF:-1 tvg-name="民視" tvg-id="10843" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/06/14/large/20230614212503849654_98.png" group-title="綜合",[VGA]民视@@1[geo-blocked]
-http://sc2022.stream-link.org/tv2306.php?id=t17
+https://epg.pw/stream/21051b1e41eb08512420e4117541bd21f7550f43b5081fa2b25f7716d92a0386.ctv
 #EXTINF:-1 tvg-name="民視第一台" tvg-id="14207" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/24/large/20230724152902808091_16.png" group-title="綜合",[HD]民视第一台[geo-blocked]
 https://epg.pw/stream/14ed21cf202007ed8122af0f57b1b45b56a845be68533e9535a14b8170e1285d.m3u8
 #EXTINF:-1 tvg-name="民視第一台" tvg-id="14207" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/24/large/20230724152902808091_16.png" group-title="綜合",[HD]民视第一台@@1[geo-blocked]
@@ -184,11 +184,9 @@ http://162.19.247.76:22222/live/dsypt/index.m3u8
 #EXTINF:-1 tvg-name="靖天卡通" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720211529385804_31.png" group-title="卡通",[VGA]靖天卡通[geo-blocked]
 https://epg.pw/stream/13bf74ffe6f5167cbe1bc14dc8fe5c75a5285ac4c955623cb34dbd9de4b8980f.m3u8
 #EXTINF:-1 tvg-name="尼克兒童臺" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/06/02/large/20230602225056726647_35.jpg" group-title="卡通",[BD]尼克儿童频道
-https://epg.pw/stream/3f9e0cbf40dd4828d593f974c80730357e4fdc12f11b239ef6f6542e21e781a4.m3u8
-#EXTINF:-1 group-title="卡通",東森幼幼
+https://epg.pw/stream/807c8130abec04971778cf511e86db3ae4bfd99dc61dfdbdc6714ac1fe8a60f6.ctv
 #EXTINF:-1 tvg-name="龍華卡通" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2017/08/11/large/20170811213813794182_39.jpg" group-title="卡通",[HD]龙华卡通[geo-blocked]
 https://epg.pw/stream/d32172780b755a7e27bc83205c9b35044cf943b127a4a470e039966a6730d439.m3u8
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=156403&extension=ts&play_token=UEKTIim7lP
 #EXTINF:-1 group-title="運動",愛爾達體育1台
 rtmp://59.124.75.138/sat/md051
 #EXTINF:-1 group-title="運動",愛爾達體育1台
