@@ -182,11 +182,11 @@ http://107.151.203.111:2209/135/hk.php?id=dsypt
 #EXTINF:-1 tvg-name="東森洋片" tvg-id="" tvg-country="台灣" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2022/11/26/large/20221126212617272813_69.jpg" group-title="電影",[HD]東森洋片
 http://162.19.247.76:22222/live/dsypt/index.m3u8
 #EXTINF:-1 tvg-name="靖天卡通" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720211529385804_31.png" group-title="卡通",[VGA]靖天卡通[geo-blocked]
-https://epg.pw/stream/13bf74ffe6f5167cbe1bc14dc8fe5c75a5285ac4c955623cb34dbd9de4b8980f.m3u8
+#https://epg.pw/stream/13bf74ffe6f5167cbe1bc14dc8fe5c75a5285ac4c955623cb34dbd9de4b8980f.m3u8
 #EXTINF:-1 tvg-name="尼克兒童臺" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/06/02/large/20230602225056726647_35.jpg" group-title="卡通",[BD]尼克儿童频道
-https://epg.pw/stream/807c8130abec04971778cf511e86db3ae4bfd99dc61dfdbdc6714ac1fe8a60f6.ctv
+#https://epg.pw/stream/807c8130abec04971778cf511e86db3ae4bfd99dc61dfdbdc6714ac1fe8a60f6.ctv
 #EXTINF:-1 tvg-name="龍華卡通" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2017/08/11/large/20170811213813794182_39.jpg" group-title="卡通",[HD]龙华卡通[geo-blocked]
-https://epg.pw/stream/d32172780b755a7e27bc83205c9b35044cf943b127a4a470e039966a6730d439.m3u8
+#https://epg.pw/stream/d32172780b755a7e27bc83205c9b35044cf943b127a4a470e039966a6730d439.m3u8
 #EXTINF:-1 group-title="運動",愛爾達體育1台
 rtmp://59.124.75.138/sat/md051
 #EXTINF:-1 group-title="運動",愛爾達體育1台
@@ -220,6 +220,8 @@ https://epg.pw/stream/513f092982fa2336bf94437ec499b912a065dae0b6c1c8bdec58249d90
 https://epg.pw/stream/5aec28ed0c821dd7b5ddcc92cc32b231b027b4bb03ad49ef973ebaa323d1d972.m3u8
 #EXTINF:-1 tvg-name="博斯魅力" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/03/23/large/20220323221608921478_11.jpg" group-title="運動",[HD]博斯魅力[geo-blocked]
 https://epg.pw/stream/2fc99a8fc88ff3faf935f77d9a2c5a0f2005ca0a697ab0045c158b977e1d5f74.m3u8
+#EXTINF:-1 tvg-name="DMAX" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/03/23/large/20220323221608921478_11.jpg" group-title="綜藝",DMAX
+https://epg.pw/stream/f33809d6f4da1760a3f6c11f6999f1e87158c5d2b5ae98ab9eef413a436442e0.ctv
 #EXTINF:-1 group-title="直播",海賊王直播
 http://epg.112114.xyz/douyu/997925
 #EXTINF:-1 group-title="直播",獵人X獵人
