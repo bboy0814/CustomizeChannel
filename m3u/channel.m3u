@@ -3,6 +3,14 @@
 https://epg.pw/stream/7401229ebba48dab78da3eb2e6912ed1aa1f295c056697946a2949901268ad3a.m3u8
 #EXTINF:-1 tvg-name="民視" tvg-id="10843" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/06/14/large/20230614212503849654_98.png" group-title="綜合",[VGA]民视@@1[geo-blocked]
 https://epg.pw/stream/21051b1e41eb08512420e4117541bd21f7550f43b5081fa2b25f7716d92a0386.ctv
+#EXTINF:-1,tvg-id="民视" tvg-name="民视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV.png" group-title="綜合",民視
+https://fake-stream.livednow.com/4gtv/4gtv-4gtv002?token=b8e3d5214e6cffbb4d17830c7768800c&user_id=995879857&user_token=a33750ddec178537e40d0b9f5c10ecd6
+#EXTINF:-1 tvg-id="FTV.tw" group-title="綜合",FTV (民視) (720p) [Not 24/7]
+http://seb.sason.top/ptv/ftv.php?id=ms
+#EXTINF:-1 tvg-id="FTVOne.tw" group-title="綜合",FTV One (民視第一台) (720p) [Not 24/7]
+http://seb.sason.top/ptv/ftv.php?id=dy
+#EXTINF:-1 tvg-id="FTVTaiwan.tw" group-title="綜合",FTV Taiwan (民視台灣台) (720p) [Not 24/7]
+http://seb.sason.top/ptv/ftv.php?id=tw
 #EXTINF:-1 tvg-name="民視第一台" tvg-id="14207" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/24/large/20230724152902808091_16.png" group-title="綜合",[HD]民视第一台[geo-blocked]
 https://epg.pw/stream/14ed21cf202007ed8122af0f57b1b45b56a845be68533e9535a14b8170e1285d.m3u8
 #EXTINF:-1 tvg-name="民視第一台" tvg-id="14207" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/24/large/20230724152902808091_16.png" group-title="綜合",[HD]民视第一台@@1[geo-blocked]
@@ -27,6 +35,8 @@ https://epg.pw/stream/9a90dbe2ab5992603a37730e6f78c4273b158f525ecd850899aeeb4fb3
 https://epg.pw/stream/8afa524e3cdfece213c38105f44b4003c7dd82dce3bd8df7e05edc65a9d2e80c.m3u8
 #EXTINF:-1 tvg-name="台視" tvg-id="14235" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/24/large/20230724092817835507_62.png" group-title="綜合",台视
 http://162.19.247.76:22222/live/taishi/index.m3u8
+#EXTINF:-1 tvg-id="TTV.tw" group-title="綜合",台视 (720p)
+http://162.19.247.76:22222/live/taishi/index.m3u8
 #EXTINF:-1 tvg-name="華視" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2020/07/26/large/20200726143140379428_88.jpg" group-title="綜合",[HD]華視
 https://epg.pw/stream/eccf32739b25830eae943450b2e0cd8790e575a94f2edee661670cbceaa71f49.m3u8
 #EXTINF:-1 tvg-name="華視" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2016/12/24/large/20161224233801697871_73.jpg" group-title="綜合",[SD]華視
@@ -41,6 +51,16 @@ https://epg.pw/stream/5c0663273403c40461cd1ae04cc5cfa4bb9d5d626270d5ec1754aeb554
 https://epg.pw/stream/aa98a9968159ce115f8d1f2abed173e2b7e9d46b96d025167fe3747760bc7603.ctv
 #EXTINF:-1 tvg-name="中視" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/11/large/20230711221412936937_72.png" group-title="綜合",[BD]中視[geo-blocked]
 https://epg.pw/stream/850967cb490cf3c98e20a19b56de0e5a029710949cff71a4132bf059dcf656bc.m3u8
+#EXTINF:-1,tvg-id="中视" tvg-name="中视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV.png" group-title="綜合",中視
+https://fake-stream.livednow.com/4gtv/4gtv-4gtv040?token=ca72b6ff5d757ea06da5c401301a3f49&user_id=995879857&user_token=a33750ddec178537e40d0b9f5c10ecd6
+#EXTINF:-1,tvg-id="华视" tvg-name="华视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTS.png" group-title="綜合",華視
+https://fake-stream.livednow.com/4gtv/6?token=18b4ded23621c0d991b67544d09e866f&user_id=995879857&user_token=a33750ddec178537e40d0b9f5c10ecd6
+#EXTINF:-1,tvg-id="华视" tvg-name="华视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTS1.png" group-title="新聞財經",華視新聞
+https://fake-stream.livednow.com/4gtv/4gtv-4gtv052?token=3f9f0dceeca5128fa572256ca3688c61&user_id=995879857&user_token=a33750ddec178537e40d0b9f5c10ecd6
+#EXTINF:-1,tvg-id="公视" tvg-name="公视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/PTS.png" group-title="新聞財經",公視新聞
+https://fake-stream.livednow.com/youtube/quwqlazU-c8?token=cbe10d91cfe03e7edf9cb8cb3247ec8a&user_id=995879857&user_token=a33750ddec178537e40d0b9f5c10ecd6
+#EXTINF:-1,tvg-id="公视戏剧" tvg-name="公视戏剧" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/PTS3.png" group-title="電影戲劇",公視戲劇
+https://fake-stream.livednow.com/4gtv/4gtv-4gtv042?token=078929af7e8ca1243b15e1d86b3d0e71&user_id=995879857&user_token=a33750ddec178537e40d0b9f5c10ecd6
 #EXTINF:-1 group-title="綜合",八大第一 HD
 http://60.251.33.252:18539/.m3u8
 #EXTINF:-1 group-title="綜合",八大第一 HD
@@ -201,6 +221,12 @@ https://epg.pw/stream/73b4c30172ca3801c29226f8833c995e865505f5c3c5f0fd0d2604b330
 #https://epg.pw/stream/807c8130abec04971778cf511e86db3ae4bfd99dc61dfdbdc6714ac1fe8a60f6.ctv
 #EXTINF:-1 tvg-name="龍華卡通" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2017/08/11/large/20170811213813794182_39.jpg" group-title="卡通",[HD]龙华卡通[geo-blocked]
 #https://epg.pw/stream/d32172780b755a7e27bc83205c9b35044cf943b127a4a470e039966a6730d439.m3u8
+#EXTINF:-1 tvg-id="EBCForeignMovie.tw" group-title="電影",EBC Foreign Movie (東森洋片) (1080p)
+https://ctrl.laotv.la/live/DongsenForeignMovie/index.m3u8
+#EXTINF:-1 tvg-id="EBCMovie.tw" group-title="電影",EBC Movie (東森電影) (1080p)
+https://ctrl.laotv.la/live/DongsenMovie/index.m3u8
+#EXTINF:-1 tvg-id="EBCNews.tw" group-title="新聞",EBC News (東森新聞台) (1080p) [Not 24/7]
+http://seb.sason.top/sc/dsxw_fhd.m3u8
 #EXTINF:-1 tvg-name="Animax" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2017/08/11/large/20170811213813794182_39.jpg" group-title="卡通",Animax
 https://epg.pw/stream/0c0ef3343e121c93cec05be29cf6275816427c2a62899fb0a44fb65905c8d6d9.ctv
 #EXTINF:-1 group-title="運動",愛爾達體育1台
